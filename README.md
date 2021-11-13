@@ -1,6 +1,6 @@
 # Trial Bike Shop
 
-This project was bootstrapped with [Live Site Link (demo website)](https://complite-e-commerce-website.web.app/).
+This project was bootstrapped with [Live Site Link (demo website)](https://trial-bike-shop.web.app/).
 
 ## Available information 2
 # What is this website related to?
@@ -20,5 +20,5 @@ This project was bootstrapped with [Live Site Link (demo website)](https://compl
 *If you are ill or if you do not have any physical problem then visit the report. We promise to start giving you the right answer. We are ready to give you cycle advice.*
 
 ## Available information 5
-# Why would you come to us for medical advice?
+# Why would you come to us for cycle advice?
 *We have qualified cyclist, bikist, shop, our cycle meeting halls are clean and tidy, we have better support for our clints here, so if you are customer, if any of your relatives are customer, you can visit the website. Visit and contact us We promise, we will try our best to get you the right benefits and you will be able to lead a normal life*
