@@ -1,0 +1,44 @@
+.makeAdminForm form{
+display: flex;
+flex-direction: column;
+}
+.makeAdminForm form input{
+    margin: 6px;
+    padding: 15px;
+   background-color: #000;
+   border-radius: 7px;
+   color: #fff;
+   border: 0;
+}
+
+.makeAdminForm {
+    background: #171717;
+    padding: 20px 13px;
+}
+
+
+.makeAdminForm h1{
+    color: #fff;
+    margin: 0;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

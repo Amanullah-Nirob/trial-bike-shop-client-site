@@ -1,0 +1,55 @@
+
+
+
+h1.welcome-dashboard {
+    -webkit-text-stroke-color: hsla(0,0%,100%,.8117647058823529);
+    -webkit-text-fill-color: rgba(2,1,1,0);
+    -webkit-text-stroke-width: 1px;
+    font-size: 70px;
+    text-transform: capitalize;
+}
+.users-information {
+    padding-bottom: 15px;
+    margin: auto;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.dashboard-titles{
+    -webkit-text-stroke-color: hsla(0,0%,100%,.8117647058823529);
+    -webkit-text-fill-color: rgba(2,1,1,0);
+    -webkit-text-stroke-width: 1px;
+    font-size: 37px;
+}
+
+.users-information-text h2 {
+    margin: 0;
+}
+
+.users-information-text p {
+    margin: 0;
+    margin-top: 2px;
+}
+
+@media (max-width:768px) {
+    h1.welcome-dashboard {
+        font-size: 56px;
+    
+    }
+    .dashboard-titles {
+        font-size: 24px;
+       
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+

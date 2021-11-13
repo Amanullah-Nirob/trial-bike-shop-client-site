@@ -1,0 +1,74 @@
+.clint-box img {
+    width: 100%;
+}
+
+.clint-box {
+    opacity: 30%;
+}
+
+.clint-box:hover {
+    opacity: 100%;
+}
+
+.clints {
+    padding-bottom: 90px;
+}
+
+#grayscale-img img {
+    transition: all 0.2s;
+   transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  #grayscale-img img {
+
+    float: left;
+    filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: grayscale(100%);
+  }
+  #grayscale-img  img:hover {
+    filter: grayscale(0%);
+    filter: grayscale(0%);
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transform: scale(1.1);
+    transform: scale(1.1);
+
+  }
+
+
+@media (max-width:768px) {
+  .clints {
+    display: none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

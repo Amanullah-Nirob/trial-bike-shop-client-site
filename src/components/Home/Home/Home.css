@@ -1,0 +1,270 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans+Condensed:wght@300;700&family=Oswald:wght@200;300;500;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;1,300;1,400&display=swap');
+.home-Top-Banner{
+    background-image: linear-gradient(180deg, #56565600 70%, #020202b3 92%,#000),url(https://templatekit.jegtheme.com/trail/wp-content/uploads/sites/91/2021/05/luca-david-ia8uTRsZZYY-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    background-color: transparent;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-banner-text {
+    text-align: start;
+    color: #fff;
+}
+
+.price-rating {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-main-text h1 {
+    font-size: 66px;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    line-height: 80px;
+    margin-bottom: 26px;
+
+}
+
+.banner-main-text p {
+    line-height: 23px;
+    margin-bottom: 40px;
+    text-transform: lowercase;
+}
+
+.banner-models h4 {
+    margin: 0;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.banner-models h3 {
+    margin: 0;
+    margin-top: 7px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.banner-models-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.price-rating h2 {
+    font-family: 'Oswald', sans-serif;
+}
+.rating-starts span {
+    font-size: 10px;
+    color: #f23801;
+    margin-right: 1px;
+}
+
+.rating-starts {
+    margin-bottom: 4px;
+}
+.home-banner-btn button {
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 13px 54px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.home-banner-btn {
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* home service start */
+.home-service-box-text {
+    text-align: start;
+    color: #fff;
+
+}
+
+.home-service-box-text h2 {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 11px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    color: #d2d2d2;
+}
+
+.home-service-box-text p {
+    margin: 0;
+    margin-top: 11px;
+    color: #858585;
+}
+.home-service-box-text h3 {
+    margin: 0;
+    margin-top: 17px;
+    font-family: 'Oswald', sans-serif;
+    color: #c8c8c8;
+}
+
+.home-service-box-image img {
+    width: 100%;
+}
+
+.home-services {
+    padding: 100px 0;
+    margin-top: 50px;
+}
+
+.home-service-box-image {
+    background: #050505;
+    border-radius: 10px;
+    padding: 15px 30px;
+    height: 186px;
+}
+
+.price-and-btn{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+
+}
+.price-and-btn a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #f238018a;
+    margin-top: 14px;
+    padding: 5px;
+}
+.Home-service-box {
+    margin-bottom: 35px;
+}
+.home-service-all-content {
+    padding-top: 56px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px) {
+    .banner-main-text h1 {
+        font-size: 47px;
+        font-family: 'Oswald', sans-serif;
+        margin: 0;
+        line-height: 58px;
+        margin-bottom: 20px;
+    }
+    .banner-main-text p {
+        line-height: 22px;
+    }
+    .banner-models-area {
+        display: block;
+    }
+    .banner-models {
+        margin-bottom: 20px;
+    }
+    .home-Top-Banner {
+        background-image: linear-gradient(180deg, #56565600 70%, #020202 92%),url(https://templatekit.jegtheme.com/trail/wp-content/uploads/sites/91/2021/05/luca-david-ia8uTRsZZYY-unsplash.jpg);
+    }
+/* home service start */
+.home-service-box-image {
+    background: none;
+    border-radius: 10px;
+    padding: 0;
+}
+.home-service-box-text p {
+    font-size: 13px;
+}
+.home-services {
+    margin-top: 10px;
+}
+.home-service-all-content {
+    padding-top: 45px;
+}
+
+.home-service-box-text h2 { 
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.home-service-box-text p {
+    margin-top: 8px;
+}
+.Home-service-box {
+    margin-bottom: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

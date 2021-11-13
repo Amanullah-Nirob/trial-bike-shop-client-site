@@ -1,0 +1,75 @@
+.single-service-review {
+    color: #fff;
+}
+.single-service-review-area{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orderPlace {
+    padding: 162px 0;
+}
+.single-service-review-text {
+    text-align: start;
+}
+
+.order-Place-form h1 {
+    margin: 0;
+    color: #fff;
+    margin-bottom: 21px;
+}
+
+
+.order-Place-form form{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 18px;
+}
+
+.order-Place-form form input {
+    margin: 7px;
+    padding: 15px;
+    background: #000;
+    border: 0;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.order-Place-form {
+    background: #171717;
+    border-radius: 13px;
+    padding: 36px 37px;
+}
+
+.order-Place-form form input:focus{
+    border: 1px solid #f23801;
+}
+.single-service-review img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

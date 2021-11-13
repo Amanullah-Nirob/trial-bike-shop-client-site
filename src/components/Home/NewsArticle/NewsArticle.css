@@ -1,0 +1,146 @@
+.left-article-box-img img {
+    width: 100%;
+}
+
+.left-article-box-text {
+    color: #fff;
+    text-align: start;
+}
+
+.left-article-box-text h1 {
+    margin: 0;
+    margin-top: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    color: #c3c1c1;
+    margin-bottom: -18px;
+
+}
+
+.left-article-box-text p {
+    margin: 0;
+}
+
+.left-article-box-text small {
+    margin-bottom: 9px;
+    display: inline-block;
+    margin-top: 10px;
+    color: #9f9f9f;
+}
+.left-article-box-text p{
+    color: #9f9f9f;
+    line-height: 22px;
+    text-transform: lowercase;
+}
+.left-article-box-text button {
+    border: 0;
+    background: transparent;
+    color: #e23801;
+    text-transform: capitalize;
+    margin-top: 13px;
+    padding: 10px 0px;
+    font-size: 15px;
+}
+.left-article-box-img.a img {
+    height: 170px;
+    object-fit: cover;
+}
+.left-article-box-text.a h1 {
+    font-size: 20px;
+    margin-top: 4px;
+}
+.left-article-box-text.a small {
+    margin-top: 6px;
+}
+
+.left-article-box-text.a button {
+    margin-top: 4px;
+}
+.left-article-box-text.a button {
+    margin-top: 4px;
+    padding: 4px 0;
+}
+.left-article-box.a {
+    margin-bottom: 15px;
+}
+
+.ourworks-title.ba {
+    text-align: start;
+}
+.ourworks-title.ba h3 {
+    margin-left: 58px;
+}
+
+.ourworks-title.ba h1 {
+    margin: 0;
+}
+
+.title-btn {
+    text-align: end;
+}
+
+.title-btn button {
+    border: 0;
+    background: #e23801;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 19px 31px;
+    font-size: 18px;
+    margin-top: 29px;
+}
+.news-article-titles {
+    padding-bottom: 30px;
+}
+.news-article {
+    padding-top: 45px;
+    padding-bottom: 120px;
+}
+
+@media (max-width:768px) {
+    .left-article-box.b {
+        margin-bottom: 12px;
+    }
+    .left-article-box.a {
+        margin-bottom: 25px;
+    }
+    .title-btn button {
+        margin-top: 1px;
+    }
+    .news-article-titles {
+        padding-bottom: 20px;
+    }
+    .left-article-box-text h1 {
+        font-size: 25px;
+    }
+    .left-article-box-text p {
+        font-size: 14px;
+    }
+    .left-article-box-text.a button {
+        margin-top: 10px;
+    }
+    .news-article {
+        padding-top: 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+
+.subscribe{
+    background-image: linear-gradient(180deg, #0000006E 60%, #020202 100%),url(https://templatekit.jegtheme.com/trail/wp-content/uploads/sites/91/2021/05/bg-calltoact-3.jpg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-size: cover;
+    background-position:center;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+}
+
+
+.subscribe-box {
+    text-align: start;
+    color: #fff;
+}
+
+.subscribe-content h3 {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    color: #d4d3d3;
+    font-weight: 300;
+    position: relative;
+    left: 128px;
+}
+
+.subscribe-content h1 {
+    margin: 0;
+    margin-top: 13px;
+    font-size: 50px;
+    color: #d2d0d0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.subscribe-content p {
+    color: #9f9e9e;
+    text-transform: lowercase;
+}
+
+.subscribe-form form input {
+    padding: 18px 154px 15px 24px;
+    font-size: 16px;
+}
+button.subscribe-btn {
+    background: #e23801;
+    border: 0;
+    padding: 20px 43px;
+    margin-left: 14px;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 14px;
+    outline: none;
+}
+.subscribe-content h3:before {
+    content: '';
+    width: 100px;
+    height: 2px;
+    display: block;
+    background: #e23801;
+    position: absolute;
+    left: -120px;
+    top: 13px;
+}
+.subscribe-form {
+    margin-top: 36px;
+}
+
+@media (max-width:768px) {
+
+    .subscribe-content h3 {
+        display: inline-block;
+    }
+    .subscribe-form form input {
+        padding: 15px 0px 12px 17px;
+    }
+    
+    button.subscribe-btn {
+        padding: 17px 37px;
+    
+    }
+    .subscribe-content h1 {
+        margin: 0;
+        margin-top: 13px;
+        font-size: 44px;
+        line-height: 56px;
+        color: #d2d0d0;
+        font-family: 'Oswald', sans-serif;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+

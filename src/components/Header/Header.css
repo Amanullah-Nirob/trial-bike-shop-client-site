@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;1,300;1,400&display=swap');
+
+.header-logo img {
+    width: 140px;
+}
+
+.list-area {
+    margin: 0;
+    margin-bottom: 9px;
+}
+
+.list-area a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #ddd;
+    margin-right: 5px;
+    font-size: 17px;
+    margin-left: 30px;
+    font-weight: 100;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.list-area a:first-child {
+    margin-left: 0;
+}
+.headers {
+    position: absolute;
+    width: 100%;
+    padding-top: 20px;
+}
+.list-area-all-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button.axtra-areabtn {
+    background: transparent;
+    border: 0;
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+    outline: none;
+}
+
+.drower {
+    display: none;
+}
+.loginorregister {
+    margin-bottom: 20px;
+}
+.loginorregister a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #ddd;
+}
+
+.close-btn {
+    width: 100%;
+    text-align: end;
+}
+
+.close-btn button {
+    background: transparent;
+    color: #fff;
+    border: 0;
+}
+
+.close-btn button i {
+    font-size: 26px;
+    color: #fff;
+}
+.header-logo.a img {
+    width: 99px;
+}
+.header-logo.a {
+    margin-top: 6px;
+}
+@media (max-width:768px) {
+    .drower {
+        display: block;
+    }
+
+.header-logo {
+    margin-right: 7px;
+}
+
+ .second-header-all-content{
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.bordera {
+    background: #fbe6e9;
+    padding-top: 15px;
+}
+
+
+
+
+.list-area {
+    text-align: initial;
+    display: none;
+}
+
+
+
+.first-header-list a:first-child {
+    margin-left: 23px;
+}
+
+
+
+.drower {
+    position: absolute;
+    top: 15px;
+    right: 9px;
+}
+
+button.amarbtn {
+    margin-left: 16px;
+    background: transparent;
+    border: 0;
+    padding: 9px 15px;
+    border-radius: 2px;
+}
+button.amarbtn i {
+    color: #fff;
+    font-size: 26px;
+}
+.loginorregister{
+    display: none;
+}
+.price-rating h2 {
+    font-size: 21px;
+}
+
+.rating-starts span {
+    font-size: 8px
+}
+
+.header-logo img {
+    width: 120px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+

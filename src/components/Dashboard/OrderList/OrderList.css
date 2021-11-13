@@ -1,0 +1,70 @@
+.order-list-card-img img {
+    width: 100%;
+}
+.order-list-card-text {
+    text-align: start;
+    font-size: 15px;
+    font-weight: 300;
+    padding-bottom: 24px;
+}
+
+.order-list-card {
+    background: #0e1726;
+    padding: 6px 17px;
+    border-radius: 10px;
+    height: 435px;
+}
+
+.deletebtn button {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #f23801;
+    padding: 8px 20px;
+    border-radius: 4px;
+    transition: all 0.3s linear;
+}
+.deletebtn button:hover{
+    background-color: #f23801;
+
+}
+
+.deletebtn {
+    text-align: start;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

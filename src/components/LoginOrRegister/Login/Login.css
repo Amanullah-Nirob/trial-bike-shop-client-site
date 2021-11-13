@@ -1,0 +1,86 @@
+.loginOrRegister-section {
+    padding: 200px 0;
+}
+
+
+.loginform-image img{
+width: 100%;
+}
+.loginform{
+    background-color: #171717;
+    padding: 45px 27px;
+    border-radius: 7px;
+}
+.loginform form{
+display: flex;
+flex-direction: column;
+}
+
+.loginform form input{
+    margin: 10px;
+    padding: 15px;
+}
+.loginform form input {
+    margin: 10px;
+    padding: 15px;
+    background: #000;
+    border: 0;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 6px;
+    transition: all 0.3s ease-in
+}
+.loginform form input:focus {
+ outline: 1px solid #f23801;
+}
+
+.loginform a{
+text-decoration: none;
+display: block;
+margin-top: 15px;
+}
+
+
+.loginform h2 {
+    color: #fff;
+    text-transform: capitalize;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.loginfotmSubmitBtbn:hover{
+background-color: #f23801;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

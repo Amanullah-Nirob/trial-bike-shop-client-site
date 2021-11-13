@@ -1,0 +1,61 @@
+
+.add-product-form form{
+    display: flex;
+ flex-direction: column;
+
+}
+
+.add-product-form form input {
+    margin: 7px;
+    padding: 15px;
+    background: #000;
+    border: 0;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.add-product-form {
+    background: #171717;
+    padding: 30px 29px;
+}
+
+
+.add-product-form-title h2{
+    color: #fff;
+  margin: 0;
+  margin-bottom: 10px;
+}
+.add-product-img img{
+    width: 100%;
+}
+
+.add-product {
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

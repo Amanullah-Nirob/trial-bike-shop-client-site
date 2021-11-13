@@ -1,0 +1,141 @@
+.review-box-text {
+    color: #fff;
+}
+
+.review-box-text h5 {
+    margin: 0;
+}
+
+.review-box-text h4 {
+    margin: 0;
+}
+.review-box {
+    position: relative;
+    padding: 0px 7px;
+}
+.icon-content {
+    position: absolute;
+    width: 215px;
+}
+.icon-content img{
+    width: 100%;
+}
+.icon-content {
+    position: absolute;
+    width: 120px;
+    top: 0px;
+    left: 0;
+}
+.review-box-text p {
+    text-align: start;
+    color: #dadada;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.icon-content {
+    position: absolute;
+    width: 100px;
+    top: -33px;
+    left: -44px;
+    z-index: -1;
+}
+.review-starts span {
+    font-size: 12px;
+    color: #f23801;
+    margin-right: 1px;
+}
+.review-starts {
+    text-align: start;
+}
+.review-user {
+    display: flex;
+    align-items: center;
+    margin-top: 21px;
+}
+.review-user-img img {
+    width: 65px;
+    border-radius: 50px;
+}
+.review-user-text {
+    color: #fff;
+    text-align:start;
+    margin-left: 20px;
+}
+
+.review-user-text h4 {
+    margin: 0;
+    font-size: 18px;
+    margin-bottom: 4px;
+    text-transform: capitalize;
+}
+
+.review-user-text p {
+    margin: 0;
+    color: #b5b1b1;
+   
+}
+.review-area-title h1{
+    color: #fff;
+}
+.review-area-title{
+    margin-bottom: 40px;
+}
+.review {
+    padding-top: 150px;
+    padding-bottom: 90px;
+}
+
+.review-contents {
+    margin-top: 55px;
+}
+
+/* =========================== */
+
+@media (max-width:768px) {
+    .review-box {
+        padding: 0px 18px;
+    }
+    .review-box-text p {
+        font-size: 14px;
+        width: 88%;
+    }
+    .icon-content {
+        position: absolute;
+        width: 100px;
+        top: -33px;
+        left: -22px;
+        z-index: -1;
+    }
+    .review-user-img img {
+        width: 60px;
+        border-radius: 50px;
+    }
+    .review-user-text h4 {
+        font-size: 17px;
+    }
+    .review-user-text p {
+        font-size: 14px;
+    }
+    .review {
+        padding-bottom: 31px;
+    }
+    .review {
+        padding-top: 75px;
+        padding-bottom: 90px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

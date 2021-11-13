@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+.review-form form {
+display: flex;
+flex-direction: column;
+}
+
+.review-form {
+    background: #171717;
+    padding: 36px 22px;
+}
+
+
+.review-form form input {
+    margin: 7px;
+    padding: 17px;
+    background: #000;
+    border: 0;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 8px;
+    transition: all 0.3s linear;
+}
+
+.review-form form input:focus{
+    outline: 1px solid orange
+}
+.review-form textarea {
+    background: #000;
+    border: 0;
+    color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.review-box-images img{
+    width: 100%;
+}
+
+.text-area textarea {
+    width: 100%;
+}
+
+.text-area {
+    padding: 0 8px;
+    border-radius: 10px;
+}
+
+.review-form-area {
+    padding: 11px 0;
+}
+.ourworks-title.r {
+    margin-bottom: 30px;
+}
+.review-form h1 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+.manage-all-order-text {
+    text-align: start;
+}
+.manage-all-order-image img {
+    width: 100%;
+}
+.manage-all-orders-area {
+    padding: 10px 30px;
+    background: #171717;
+    height: 522px;
+}
+.button-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 18px;
+}
+
+.button-group button:first-child {
+    background: transparent;
+    border: 1px solid #e23801;
+    padding: 9px 18px;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 5px;
+    transition: all 0.3s linear;
+}
+
+.button-group button:first-child:hover{
+    background-color: #e23801;
+}
+.button-group button:last-child:hover{
+    background-color: #01e226;
+}
+
+
+.button-group button:last-child {
+    background: transparent;
+    border: 1px solid #01e226;
+    padding: 9px 18px;
+    color: #fff;
+    text-transform: capitalize;
+    transition: all 0.3s linear;
+    border-radius: 5px;
+}
+
+
+@media (max-width:768px) {
+    .all-product-manage {
+        background: none;
+        padding:0
+    }
+    .manage-all-orders-area {
+        padding:0;
+        background: none;
+        height: auto;
+    }
+    .manage-all-order-text span {
+        font-size: 15px;
+    }
+    .button-group button:first-child {
+        padding: 9px 12px;
+    }
+    .button-group button:last-child {
+        padding: 8px 14px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
