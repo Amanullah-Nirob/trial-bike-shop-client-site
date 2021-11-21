@@ -13,7 +13,7 @@ import About from '../src/components/About/About'
 import Blog from './components/Blog/Blog';
 import Contact from './components/Contact/Contact';
 function App() {
-
+ 
   return (
     <div className="App">
     <Context>
